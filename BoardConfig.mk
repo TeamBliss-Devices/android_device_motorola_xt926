@@ -39,7 +39,7 @@ DEVICE_RESOLUTION := 720x1280
 
 # BlissPop Configs
 TARGET_TC_ROM := 4.8
-TARGET_TC_KERNEL := 4.10-linaro
+TARGET_TC_KERNEL := 4.8-sm
 BLISSIFY := true
 BLISS_O3 := true
 BLISS_STRICT := true
