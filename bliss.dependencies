@@ -19,8 +19,8 @@
   },
   {
     "remote": "github",
-    "repository": "TeamBliss-Devices/android_kernel_motorola_msm8960dt-common",
+    "repository": "razrqcom-dev-team/android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "revision": "lp5.1"
+    "revision": "cm-12.1"
   }
 ]
